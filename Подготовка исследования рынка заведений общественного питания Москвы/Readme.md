@@ -2,7 +2,4 @@
 ### Задача
 Выяснить, сможете ли вы снискать популярность на долгое время.
 ### Используемые библиотеки
-Pandas; 
-Matplotlib; 
-Seaborn; 
-Os
+Pandas; Matplotlib; Seaborn; Os
